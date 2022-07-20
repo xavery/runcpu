@@ -1,3 +1,5 @@
+**tl;dr don't use this, have a look at [cmd start /affinity](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/start) instead**
+
 # runcpu
 
 `runcpu` is a program that can be used for launching Windows processes with a
